@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashbarmecha
 - 👀 I’m interested in Python, Machine learning and artificial intelligence.
 - 🌱 I’m currently learning Machine learning, Artificial intelligence
-- 📫 How to reach me on instagram @__the__unrevealed__
+- 📫 You can reach me on instagram @__the__unrevealed__
 
 <!---
 Yashbarmecha/Yashbarmecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
